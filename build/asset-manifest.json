@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c5c4e038.js",
+    "static/media/laurel.png": "/static/media/laurel.e7ca187603e4905dbd55.png",
+    "static/media/icon_mypage.png": "/static/media/icon_mypage.81ba1b5410b1286ea250.png",
+    "index.html": "/index.html",
+    "main.c5c4e038.js.map": "/static/js/main.c5c4e038.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c5c4e038.js"
+  ]
+}
